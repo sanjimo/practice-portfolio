@@ -15,6 +15,7 @@
     width: 50%;
     float: right;
     margin-right: 180px;
+    margin-top: 25px;
     height:50%;
 }
 .bold-color{
@@ -27,6 +28,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    background-color: lightgray;
 }
 h2{
     font-size: 25px;
@@ -51,4 +53,35 @@ h2{
 }
 .skill-section{
     text-align: center;
+}
+.skill-flexible{
+    display: flex;
+    margin-top: 80px;
+}
+.skill-item{
+    box-shadow: 10px 10px 40px darkslategray;
+    width:50%;
+    height:50%;
+    margin-left:10%;
+    margin-right:10%;
+    padding-left: 20px;
+    background-color: lavenderblush;
+}
+#skill-frontend{
+    text-align: center;
+}
+.skill-item{
+    border-image: linear-gradient(coral,lightcoral);
+    border-left: 10px solid;
+    border-image-slice: 1%;
+}
+#skill-backend{
+    text-align: center;
+}
+.list{
+    list-style-type: circle;
+}
+footer{
+    text-align: center;
+    margin: 8%;
 }
