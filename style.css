@@ -10,6 +10,10 @@
     width: 50%;
     padding-left: 5%;
     height:50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    word-spacing: 10px;
+    line-height: 1.5;
 }
 .half-width img{
     width: 50%;
@@ -28,7 +32,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-color: lightgray;
+    background-color: #F1F1F1;
 }
 h2{
     font-size: 25px;
@@ -36,7 +40,6 @@ h2{
 .flexible-container{
     display:flex;
     margin-bottom: 30px;
-    background-color: lightgray;
     height:30%;
 }
 .skill-header{
@@ -53,6 +56,8 @@ h2{
 }
 .skill-section{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 .skill-flexible{
     display: flex;
@@ -83,5 +88,6 @@ h2{
 }
 footer{
     text-align: center;
-    margin: 8%;
+    margin: 2%;
+    margin-bottom: 0%;
 }
