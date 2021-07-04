@@ -1,0 +1,39 @@
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(salmon,coral);
+    color:white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    height:50%;
+}
+.half-width img{
+    width: 50%;
+    float: right;
+    margin-right: 180px;
+    height:50%;
+}
+.bold-color{
+    color: coral;
+}
+.heading-class{
+    color:coral;
+    font-size: 40px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h2{
+    font-size: 25px;
+}
+.flexible-container{
+    display:flex;
+    margin-bottom: 30px;
+    background-color: lightgray;
+    height:30%;
+}
