@@ -74,6 +74,8 @@ h2{
 }
 #skill-frontend{
     text-align: center;
+    font-size: 25px;
+    font-weight:700;
 }
 .skill-item{
     border-image: linear-gradient(coral,lightcoral);
@@ -82,12 +84,16 @@ h2{
 }
 #skill-backend{
     text-align: center;
+    font-size: 25px;
+    font-weight:700;
 }
 .list{
     list-style-type: circle;
+    font-weight: 700;
 }
 footer{
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
     margin: 2%;
     margin-bottom: 0%;
 }
