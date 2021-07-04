@@ -37,3 +37,18 @@ h2{
     background-color: lightgray;
     height:30%;
 }
+.skill-header{
+    text-align: center;
+    font-weight: 700;
+}
+.link-button1{
+    text-decoration: none;
+    background-image:linear-gradient(salmon,coral);
+    color:white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.skill-section{
+    text-align: center;
+}
